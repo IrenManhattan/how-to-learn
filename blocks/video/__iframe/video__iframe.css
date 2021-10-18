@@ -1,5 +1,5 @@
 .video__iframe {
-  margin: 0;
+  margin-right: 20px;
   padding: 0;
   width: 515px;
   height: 316px;
@@ -9,6 +9,6 @@
   border: 0;
 }
 
-.video__iframe:nth-child(1) {
-  margin-right: 20px;
+.video__iframe:last-child {
+  margin-right: 0;
 }
